@@ -1,3 +1,13 @@
+# Original author: Depso (`depthso` on Discord)
+
+Before using this, you must set up the prefabs, otherwise the library is not going to work
+Tutorial:
+1. Download Prefabs.rbxm from this repo
+2. Publish it on Roblox
+3. Copy the newly published assetid, and replace it in ReGui.lua on line 23
+
+---
+
 # Dear ReGui
 Dear ReGui is a retained dear ImGui library remake designed to be used on Roblox!
 This is perfect for beginners and performance.
