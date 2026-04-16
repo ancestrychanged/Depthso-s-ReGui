@@ -1,6 +1,7 @@
 # Original author: Depso (`depthso` on Discord)
 
 Before using this, you must set up the prefabs, otherwise the library is not going to work
+
 Tutorial:
 1. Download Prefabs.rbxm from this repo
 2. Publish it on Roblox
